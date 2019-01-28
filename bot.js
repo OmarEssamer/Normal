@@ -36,4 +36,4 @@ client.user.setGame(`Ana Mafia`,"http://twitch.tv/S-F")
   console.log('')
 });
 
-client.login("NDM0MjgyNzU0MDE2OTM1OTM3.Dxtqog.ktKm31lMK-lAhkkE7gFYhxAVf4Y");
+client.login(client.login(process.env.BOT_TOKEN);
